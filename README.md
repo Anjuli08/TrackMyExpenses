@@ -4,7 +4,7 @@ It is a web application that allows you to easily track your income, expenses, a
 
 ## Features
 
-- Add transactions: Keep a record of your income and expenses by adding transactions. Each transaction includes a Transaction Name and amount('+' is for Income and '-' is for Expense).
+- Add transactions: Keep a record of your income and expenses by adding transactions. Each transaction includes a Transaction Name and amount ('+' is for Income and '-' is for Expense).
 
 - Delete transactions: Remove unwanted or incorrect transactions.
 
